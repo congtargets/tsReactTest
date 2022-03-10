@@ -1,0 +1,31 @@
+{
+  "name": "tsReactTest",
+  "version": "1.0.0",
+  "description": "开始 tsReact 之路",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/congtargets/tsReactTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/congtargets/tsReactTest/issues"
+  },
+  "homepage": "https://github.com/congtargets/tsReactTest#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.39",
+    "@types/react-dom": "^17.0.13",
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.7.4"
+  }
+}
